@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'smcfcs': Multiple imputation of covariates by substantive model compatible fully conditional specification Use smcfcs With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f smcfcs.ado
+f smcfcs.sthlp

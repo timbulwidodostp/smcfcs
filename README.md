@@ -1,6 +1,8 @@
 # smcfcs
 Multiple imputation of covariates by substantive model compatible fully conditional specification Use smcfcs With STATA 18
 
+https://www.youtube.com/watch?v=7xBU03kd5mU
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
